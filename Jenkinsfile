@@ -4,7 +4,8 @@ pipeline {
     stage('Build') {
       steps {
         sh '''cd spring
-mvn spring-boot:run'''
+mvn spring-boot:run -Dserver.port=8083
+'''
       }
     }
 
