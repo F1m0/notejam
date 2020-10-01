@@ -16,47 +16,11 @@ Currently python, php, ruby and javascript frameworks are supported.
 Supported frameworks
 ====================
 
-**Python**
-
-
-* `Django <https://github.com/komarserjio/notejam/tree/master/django>`_
-* `Flask <https://github.com/komarserjio/notejam/tree/master/flask>`_
-* `Pyramid <https://github.com/komarserjio/notejam/tree/master/pyramid>`_
-
-**PHP**
-
-* `Laravel <https://github.com/komarserjio/notejam/tree/master/laravel>`_
-* `Yii <https://github.com/komarserjio/notejam/tree/master/yii>`_
-* `CakePHP <https://github.com/komarserjio/notejam/tree/master/cakephp>`_
-* `Nette <https://github.com/komarserjio/notejam/tree/master/nette/native_db>`_ / `Nette + Doctrine <https://github.com/komarserjio/notejam/tree/master/nette/doctrine>`_
-* `Symfony <https://github.com/komarserjio/notejam/tree/master/symfony>`_
-
-**Ruby**
-
-* `Padrino <https://github.com/komarserjio/notejam/tree/master/padrino>`_
-* `Ruby on Rails <https://github.com/komarserjio/notejam/tree/master/rubyonrails>`_
 
 **Java**
 
 * `Spring <https://github.com/komarserjio/notejam/tree/master/spring>`_
 
-**Javascript (node.js)**
-
-* `Express <https://github.com/komarserjio/notejam/tree/master/express>`_
-
-
-In progress
------------
-
-**Scala**
-
-* Play
-
-**Clojure**
-
-* Compojure
-
-... and more frameworks are coming soon.
 
 ====================
 Application overview
